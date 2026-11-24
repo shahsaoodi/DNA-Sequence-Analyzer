@@ -9,7 +9,7 @@ description = "A small, beginner-friendly Python tool for basic DNA sequence ana
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Your Name" }]
+authors = [{ name = "Shah Saood" }]
 dependencies = []
 
 [project.optional-dependencies]
